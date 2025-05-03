@@ -1,0 +1,11 @@
+{
+  "name": "online-food-ordering-system",
+  "version": "1.0.0",
+  "description": "A simple Node.js setup for CI/CD learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
