@@ -1,7 +1,7 @@
 # Online Food Ordering System
-This repository contains the project files for the Online Food Ordering System, developed as part of a 2-week SDLC execution. It includes code, UML diagrams, and documentation.
+A project to simulate the SDLC for an online food ordering platform.
 
-## Structure
-- code/: Placeholder code files
-- diagrams/: UML diagrams
-- docs/: Documentation files
+## Folder Structure
+- **code/**: Placeholder for implementation code.
+- **diagrams/**: UML diagrams and architecture designs.
+- **docs/**: Project documentation (e.g., SRS).
